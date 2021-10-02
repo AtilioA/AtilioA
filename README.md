@@ -3,3 +3,5 @@
 ![Divider](https://img.shields.io/badge/-|-333) ![French level](https://img.shields.io/badge/PT--BR-N-brightgreen)
 ![English level](https://img.shields.io/badge/EN-C1-green)
 ![French level](https://img.shields.io/badge/FR-B1-yellow)
+
+![Metrics](https://github.com/my-github-user/my-github-user/blob/master/github-metrics.svg)
