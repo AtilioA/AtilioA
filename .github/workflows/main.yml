@@ -26,7 +26,7 @@ jobs:
         with:
           token: ${{ secrets.USER_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
-          config_timezone: Europe/Oslo
+          config_timezone: America/Sao_Paulo
           repositories_forks: no
           plugin_languages: yes
           plugin_followup: no
@@ -40,7 +40,7 @@ jobs:
           plugin_achievements_threshold: A
           plugin_achievements_secrets: no
           plugin_achievements_limit: 0
-          plugin_stackoverflow: yes
+          plugin_stackoverflow: no
           plugin_stackoverflow_user: 7841675
           plugin_stackoverflow_sections: ''
           plugin_stackoverflow_lines: 2
