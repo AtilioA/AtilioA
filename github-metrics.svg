@@ -33,16 +33,16 @@
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.69031837197264" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="193.69031837197264" y="0" width="79.7150497390623" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="273.40536811103493" y="0" width="60.61522358093266" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="334.0205916919676" y="0" width="44.993550886348686" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="379.0141425783163" y="0" width="44.08446633693842" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="423.0986089152547" y="0" width="22.055758818015192" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="445.1543677332699" y="0" width="7.922712073090538" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="453.0770798063604" y="0" width="6.922920193639556" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="193.72262601405475" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="193.72262601405475" y="0" width="79.70537902307562" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="273.4280050371304" y="0" width="60.6078699806572" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="334.0358750177876" y="0" width="44.98809244590014" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="379.0239674636877" y="0" width="44.07911818304824" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="423.10308564673596" y="0" width="22.053083100191547" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="445.1561687469275" y="0" width="7.921750920854493" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="453.077919667782" y="0" width="6.9220803322180275" height="8" fill="#db5855"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -214,7 +214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>garyttierney/me3</span>
-                                        <span>starred 1 day ago</span>
+                                        <span>starred 2 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A framework for modding and instrumenting games.</div>
@@ -314,7 +314,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Oct 2024, 20:21:42 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 24 Oct 2024, 20:21:41 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
