@@ -32,18 +32,18 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.31526671366396" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="165.31526671366396" y="0" width="86.69654997782884" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="252.0118166914928" y="0" width="65.92394758334395" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="317.93576427483674" y="0" width="52.97008142104632" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="370.90584569588304" y="0" width="48.934117784120694" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="419.83996348000375" y="0" width="24.014213316246288" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="443.85417679625004" y="0" width="8.616588780324852" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="452.4707655765749" y="0" width="7.529234423425105" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="165.45105890080785" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="165.45105890080785" y="0" width="86.65659977746375" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="252.10765867827163" y="0" width="65.89356950122318" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="318.00122817949483" y="0" width="52.94567254472232" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="370.94690072421713" y="0" width="48.91156869986459" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="419.85846942408176" y="0" width="24.00314744760631" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="443.86161687168806" y="0" width="8.61261821346463" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="452.4742350851527" y="0" width="7.525764914847331" height="8" fill="#db5855"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -248,7 +248,7 @@
                                             <path d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                             <path fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                         </svg>
-                                        178
+                                        179
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -317,7 +317,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 16 May 2025, 20:22:57 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 17 May 2025, 20:22:27 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
