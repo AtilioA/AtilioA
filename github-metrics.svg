@@ -30,18 +30,18 @@
                         <div class="field calendar">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
                                 <g>
-                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
-                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="0" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="15" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="45" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
+                                    <rect class="day" x="60" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="75" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="90" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="105" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="120" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="135" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
@@ -137,14 +137,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="211.38518499796803" height="8" fill="#000080"/>
-                    <rect mask="url(#languages-bar)" x="211.38518499796803" y="0" width="73.14273289179503" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="284.52791788976305" y="0" width="55.61764211487458" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="340.1455600046376" y="0" width="44.68893534548988" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="384.8344953501275" y="0" width="41.28393929510332" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="426.1184346452308" y="0" width="20.259920269560613" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="446.37835491479143" y="0" width="7.269503247348504" height="8" fill="#3D6117"/>
-                    <rect mask="url(#languages-bar)" x="453.64785816214" y="0" width="6.352141837860043" height="8" fill="#db5855"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="212.59128621221532" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="212.59128621221532" y="0" width="72.78789668079354" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="285.3791828930088" y="0" width="55.34782510623102" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="340.72700799923985" y="0" width="44.47213660329435" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="385.1991446025342" y="0" width="41.08365915768542" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="426.2828037602196" y="0" width="20.16163363110156" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="446.4444373913212" y="0" width="7.234236818461191" height="8" fill="#3D6117"/>
+                    <rect mask="url(#languages-bar)" x="453.67867420978234" y="0" width="6.3213257902176245" height="8" fill="#db5855"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -214,7 +214,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>nietus/anki-mcp</span>
-                                        <span>starred 5 days ago</span>
+                                        <span>starred 6 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">MCP server for anki</div>
@@ -311,7 +311,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 31 May 2025, 20:23:27 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Jun 2025, 20:23:23 (timezone America/Sao_Paulo) with lowlighter/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
