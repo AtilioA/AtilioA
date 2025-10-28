@@ -2,7 +2,7 @@
 [![English](https://img.shields.io/badge/English-C2-green)](https://github.com/AtilioA)
 [![French](https://img.shields.io/badge/French-B1-yellow)](https://github.com/AtilioA)
 
-Hi! I'm Atílio, a product-minded, detail-oriented full-stack software engineer passionate about building tools that empower both users and developers.
+Hi! I'm Atílio, a product-minded, detail-oriented full-stack software engineer passionate about building tools that empower both users and developers. [Check out my portfolio here](https://atilioa-portfolio.vercel.app/).
 
 I have a background in Computer Science and 3+ years of professional experience delivering web applications and developer tools for clients in the US and Norway, while also contributing to open-source projects across the globe.
 - 💻 **Proficient** using TypeScript, Python, Django, React, Docker,  PostgreSQL, Redis, AWS;
