@@ -6,7 +6,7 @@ Hi! I'm Atílio, a product-minded, detail-oriented full-stack software engineer 
 
 I hold a B.S. in Computer Science and have 5+ years of experience building web applications and developer tools for international clients, in addition to open-source work.
 - 💻 **Proficient** using TypeScript, Python, Django, React, Docker, PostgreSQL, Redis, AWS;
-- 🛠️ **Creator** of [_Mod Configuration Menu_](https://www.nexusmods.com/baldursgate3/mods/9162), one of the most widely used Lua scripting mods/frameworks for *Baldur's Gate 3* (750k+ unique players, 300+ dependencies); picked by Nexus Mods as a top author for exceptional modding frameworks;
+- 🛠️ **Creator** of [_Mod Configuration Menu_](https://www.nexusmods.com/baldursgate3/mods/9162), one of the most widely used Lua scripting mods/frameworks for *Baldur's Gate 3* (800k+ unique players, 300+ dependencies); picked by Nexus Mods as a top author for exceptional modding frameworks;
 - 📈 **Building** _Alerta do Tesouro_, a platform for tracking Brazilian treasury bonds.
 
 [![Metrics](https://github.com/AtilioA/AtilioA/blob/master/github-metrics.svg)](https://github.com/AtilioA)
